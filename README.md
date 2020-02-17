@@ -1,3 +1,3 @@
-# Game105
-Class 4  
-You will need to install the Unity Standard assets# Game105-Class4
+# Game105-Class4
+## This is how we left our project at the end of class 4   
+**You will need to install the Unity Standard assets**
